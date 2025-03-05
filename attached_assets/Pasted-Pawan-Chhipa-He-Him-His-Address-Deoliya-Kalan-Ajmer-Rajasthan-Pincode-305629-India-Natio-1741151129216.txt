@@ -1,0 +1,127 @@
+Pawan Chhipa (He/Him/His) 
+Address: Deoliya Kalan, Ajmer, Rajasthan 
+Pincode:305629 (India). Nationality: Indian   
+Contact: (+91) 7410812750 
+Email  Linkedin  Github 
+RESEARCH EXPERIENCE 
+CSIR – Central Leather Research Institute (CLRI)  
+Chennai, India 
+Project Associate    
+Sept’23-Present 
+▪ Developed and optimized a sequential workflow combining classification and regression models, integrating 
+deep neural networks to enhance predictive accuracy for toxic chemical classification and property prediction. 
+▪ Optimized computational efficiency using high-performance computing systems and GPU clusters to process 
+large-scale chemical datasets, achieving enhanced model accuracy through parallel processing.  
+Indian Institute of Technology Madras (IIT Madras)  
+Internship  
+Chennai, India 
+May’23-Jun’23 
+▪ Acquired proficiency in chemical data analysis, including SMILES notation and chemical descriptors, laying 
+the groundwork for future application in machine learning. 
+▪ Reviewed literature on drug discovery and machine learning applications in chemical drug databases. 
+IIT Madras, NTU Singapour, Chula University 
+Chennai, India 
+Master’s Course Project 
+Jan’23-May’23 
+▪ Researched PET depolymerization, identifying alkaline hydrolysis as the optimal method for sustainable plastic 
+waste management, and presented findings on plastic waste as MOF precursors to an international audience. 
+SELF GUIDED PROJECTS 
+Project 1: Polymer Bandgap Property Prediction.              
+Link 
+▪  Developed a comprehensive machine learning pipeline for polymer property prediction, using Random Forest 
+models, Morgan fingerprints, and molecular descriptors from RDKit. Applied RFECV for feature selection, 
+cross-validation, and hyperparameter optimization to enhance model efficiency. 
+Project 2: Alloy Design using Machine Learning.                  
+Link 
+▪  Developed an end-to-end machine learning package for alloy design, including data preprocessing, model 
+development, and deployment, using k-fold cross-validation and gradient descent techniques. 
+Project 3: Predicting the Presence of Heart Disease.                  
+Link 
+▪ Achieved 98.83% accuracy in health dataset analysis by implementing logistic regression, random forest, and 
+KNN models with optimized feature engineering techniques, including one-hot encoding and normalization.  
+Project 4: Machine Learning Model Analysis and Feature Selection                  
+Link 
+▪ Developed and compared machine learning models (SVR and Random Forest), achieving R² scores of 0.79 and 
+0.85 with RMSE values of 2.26 and 1.92, respectively, through effective feature selection. 
+LEADERSHIP AND TEAMWORK 
+Theoretical Chemistry Symposium (TCS) | IIT Madras, Chennai   
+Conference Volunteer    
+Chennai, India 
+7th-10thDec’23 
+▪ Managed abstract processing for TCS, categorizing 600 submissions into 4 thematic sets, showcasing strong 
+organizational skills.  
+▪ Utilized strategic planning to streamline abstract formatting and collaborated with a team to produce a high
+quality and visually appealing abstract book for the Theoretical Chemistry Symposium 
+Placement & Internship cell | Indian Institute of Technology Madras       
+Chennai, India 
+Placement Coordinator    
+May’22-Jun’23 
+▪ Selected in a core team of 250+ dedicated students to secure and efficiently manage placements for 1800+ 
+students of IITM in 2023.  
+▪ Strategically pitched 15+ companies to open relevant job profiles for M.Sc and PhD candidates.  
+COURSES & CERTIFICATIONS 
+DeepLearning.AI and Stanford Online 
+Nov’23-Feb’24 
+▪ Supervised Machine Learning: Regression and Classification 
+▪ Advanced Learning Algorithms 
+IBM Skills Network  
+July’22-Jan’23 
+▪ Statistics for Data Science with Python 
+▪ Databases and SQL for Data Science with Python 
+▪ Python for Data Science, AI & Development 
+▪ Python Project for Data Science 
+Indian Institute of Technology Madras, Chennai  
+▪ Data Science: Theory and Practice 
+▪ Introductory Computational Chemistry Laboratory 
+▪ Principles of Quantum Chemistry 
+Aug’22-Nov’22 
+TECHNICAL & SOFT SKILLS 
+Programming Language & Libraries: Python, ML(sklearn, Keras, tensorflow), Pandas, Numpy, Matplotlib, RDkit. 
+Software: MS Excel, MS Word, MS PowerPoint, Canva, Chem-Draw, Basics of Gaussian.  
+Tools: Anaconda, Jupyter Notebook, Google Collab, IBM Db2 cloud, Kaggle, Github, Knime Analytics. 
+▪ Soft Skills: 
+• Effective Communication and presentation 
+• Ability to Convert Data into a Story 
+• Collaborative Approach 
+• Time Management  
+• Analytical and creative thinking 
+• Art of Googling 
+SCHOLASTIC ACHIEVEMENTS/AWARDS  
+▪ Ranked in the Top 2.6% in IIT JAM 2021, a prestigious exam conducted by IISC Bangalore with more than 
+15K applicants across India.  
+▪ Cleared the highly prestigious JEE Mains exam twice in 2018 and 2019.  
+▪ Recipient of the INSPIRE Scholarship, an honor awarded to the Top 1% of graduating students nationwide 
+by the Department of Science and Technology, Government of India.  
+ACADEMIC PROFILE 
+Degree 
+CGPA (scale of 10) / 
+% 
+Institution 
+Master of Science 
+(Chemistry) 
+Bachelor of Science 
+(Mathematics, Chemistry, Physics) 
+Senior Secondary XII (PCM) 
+Indian Institute of Technology 
+Madras, Chennai (Tamilnadu) 
+Maharshi Dayanand Saraswati 
+University, Ajmer (Rajasthan) 
+K P Sr Sec School Jobner, Jaipur 
+(Rajasthan) 
+7.46 
+64.88 
+89.80 
+Year of 
+Passing 
+2023 
+2021 
+2018 
+CONFERENCES & WORKSHOPS 
+▪ Enhanced expertise in applying machine learning techniques to accurate property predictions and materials 
+design at the 'Machine Learning and Artificial Intelligence in Materials Science' workshop hosted by the 
+Centre for Atomistic Modelling and Materials Design, IIT Madras. 
+▪ Actively Participated in the Theoretical Chemistry Symposium (TCS-2023), organized by the IIT Madras. 
+▪ Attended Indo-German workshop titled “Complex Chemical Systems (IGW-CCS-2022) at IIT Madras. 
+▪ Attended Chemistry In-House Symposium-2022 CiHS-2022, Indian Institute of Technology Madras. 
+▪ Attended a 4-day MedChem-2021 conference on ‘Emerging infectious diseases and therapeutic strategies’ 
+organized by IIT Madras–AstraZeneca Endowment Program from Dec 01-04, 2021. 

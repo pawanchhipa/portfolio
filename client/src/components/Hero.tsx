@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { ArrowDown } from "lucide-react";
+import { ArrowDown, Mail, Github, Linkedin, MapPin } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -20,13 +20,31 @@ export default function Hero() {
             machine learning, and materials science. With expertise in chemistry and AI, 
             I develop computational frameworks that accelerate scientific discovery.
           </p>
-          <div className="flex gap-4 justify-center">
+          <div className="flex gap-4 justify-center mb-8">
             <Button size="lg" asChild>
               <a href="#projects">View Projects</a>
             </Button>
             <Button size="lg" variant="outline" asChild>
               <a href="#contact">Contact Me</a>
             </Button>
+          </div>
+          <div className="flex gap-6 justify-center text-muted-foreground">
+            <a href="mailto:work.pawanchhipa@gmail.com" className="flex items-center gap-2 hover:text-primary">
+              <Mail className="h-5 w-5" />
+              <span>Email</span>
+            </a>
+            <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary">
+              <Github className="h-5 w-5" />
+              <span>GitHub</span>
+            </a>
+            <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary">
+              <Linkedin className="h-5 w-5" />
+              <span>LinkedIn</span>
+            </a>
+            <div className="flex items-center gap-2">
+              <MapPin className="h-5 w-5" />
+              <span>Germany (from April 2025)</span>
+            </div>
           </div>
         </motion.div>
       </div>

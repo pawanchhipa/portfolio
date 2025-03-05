@@ -1,0 +1,54 @@
+Pawan Chhipa | Indian Institute of Technology Madras 
+work.pawanchhipa@gmail.com | +91 7410812750 |  Linkedin  |  GitHub
+Professional Experience
+Project Associate 1 (Sen. Scientist Dr K Balamurugan)(Center of High Computing, CSIR-CLRI, Chennai)                    Sept’23-Present
+•	Currently conducting cutting-edge chemistry research, employing machine learning for advanced molecular analysis & prediction.
+•	Utilized chemical databases adeptly, enabling data transformation for machine learning models.
+•	Ongoing work involves translating 3D molecular structures into mathematical formulations to extract crucial molecular descriptors.
+•	Actively working on predicting biological activity, toxicity, and energy activation using Random Forest and Machine Learning models.
+Self Guided Projects
+Project 1:  Predicting-the-Presence-of-Heart-Disease.	              Jun’23-Jul’23
+•	Analyzed health dataset with logistic regression, random forest and KNN, achieving an impressive accuracy rate of 98.83%.
+•	Proficiently demonstrate the application of one-hot encoding and feature normalization to enhance model performance significantly. 
+•	Conclusively Identified Random Forest as the superior predictive model through comprehensive performance analysis.
+Project 2:  Real Estate price prediction in Bangalore.	          May’23-Jun’23
+•	Conducted EDA and feature preprocessing on the Home Prices dataset, emphasizing Total sq, Bhk, and location significant impact.
+•	Achieved an impressive 85% accuracy through K-Fold Cross-Validation, employing Linear Regression for model evaluation.
+•	Utilized GridSearchCV to systematically identify optimal regression models, including Lasso, Decision Tree, and Linear Regression.
+Project 3: Book-Recommendation-System-using-K-nearest-Neighbours.	        Aug’23-Sept’23
+•	Developed a Robust Recommendation System using KNN and association rule mining to address data sparsity issues effectively.
+•	Computed precise and highly personalized book recommendations, improving user experience and enhancing engagement.
+•	Concluded project by employing matrix factorization and KNN, achieving better performance and effectively addressing data gaps.
+Project 4:  Extracting and Visualizing Stock. 		                Jan’23-Feb’23
+•	Extracted crucial stock market data from a large dataset using the yfinance library, significantly enhancing financial analysis capabilities.
+•	Employed advanced web scraping techniques to retrieve Tesla and GameStop revenue data for in-depth analysis meticulously.
+•	Diligently uncovered a remarkable revenue disparity, with Tesla dramatically outperforming GameStop ninefold in 2021.
+Positions of Responsibility
+Placement Coordinator, Department of Chemistry, IITM.	        May’22-May’23
+•	Selected in a core team of 250+ dedicated students to secure and efficiently manage placements for 1800+ students of IITM in 2023. 
+•	As a part of the MSc team, contributed to achieving 32 placement offers, a significant boost from the previous year's count of 7 offers.
+•	Strategically pitched 15+ companies to open relevant job profiles for M.Sc and PhD candidates, enhancing student opportunities. 
+•	Provided valuable assistance to students in resume-building and Initiated Placement awareness talks in Chemistry Department at IITM.
+Scholastic Achievements/Awards
+•	Ranked in the Top 2.6% in IIT JAM 2021 a prestigious exam IISC Bangalore conducted with more than 15K applicants from across India. 
+•	Recipient of the INSPIRE Scholarship, an honor awarded to the Top 1% of graduating students nationwide by the DST Govt of India. 
+•	Awarded a Merit-based scholarship for achieving the top grade in a batch of 110 students by the Chandak Family Foundation. 
+•	Lead a team of 4 students to secure the 1st Prize (among 50+ teams) in a district-level science quiz competition in Ajmer (Rajasthan).
+Education
+Indian Institute of Technology Madras (IIT Madras)	     Chennai, India
+Master of Science (Chemistry)	      Aug’21-Jun’23
+CGPA – 7.46
+Maharshi Dayanand Saraswati University, Ajmer (Rajasthan)	           Ajmer, India
+Bachelor of Science (Mathematics, Physics, Chemistry) 	  Aug’18-Aug’21
+Technical & Soft Skills
+Programming Language & Libraries: Python, ML(sklearn, tensorflow), Pandas, Numpy, Matplotlib, Seaborn, RDkit.
+Software: MS Excel, MS Word, MS PowerPoint, Canva, Chem-Draw, Gaussian.
+Tools: Latex, Anaconda, Jupyter Notebook, Google Collab, IBM Db2 cloud, IBM Watson Studio, Kaggle.
+•	Effective Communication and presentation	•	Analytical and creative thinking	•		Ability to Convert Data into a Story
+•	Time Management	•	Art of Googling	•		Collaborative Approach
+Coursework & Certifications
+Data Science: Theory and Practice	Python for Data Science, AI Development
+Principles of Quantum Chemistry	Databases and SQL for Data Science with Python
+Introductory Computational Chemistry Laboratory	Python Project for Data Science
+Analytical Chemistry: Principles, Practices, Applications	Statistics & Probability for Data Science with Python
+

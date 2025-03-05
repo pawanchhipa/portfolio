@@ -2,8 +2,10 @@ import { motion } from "framer-motion";
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects";
 import Experience from "@/components/Experience";
+import Education from "@/components/Education";
 import Certifications from "@/components/Certifications";
 import Skills from "@/components/Skills";
+import Achievements from "@/components/Achievements";
 import Contact from "@/components/Contact";
 
 export default function Home() {
@@ -14,10 +16,12 @@ export default function Home() {
       transition={{ duration: 0.5 }}
     >
       <Hero />
-      <Projects />
+      <Education />
       <Experience />
-      <Certifications />
+      <Projects />
       <Skills />
+      <Achievements />
+      <Certifications />
       <Contact />
     </motion.div>
   );

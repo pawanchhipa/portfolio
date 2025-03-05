@@ -1,18 +1,24 @@
 import { motion } from "framer-motion";
-import { SiPython, SiTensorflow, SiPytorch, SiScikitlearn, SiJupyter, SiAmazon, SiDocker, SiPandas, SiJulia } from "react-icons/si";
+import { SiPython, SiJupyter, SiPandas, SiScikitlearn, SiTensorflow, SiKeras, SiGooglecolab, SiMicrosoftexcel, SiCanva, SiLatex, SiGithub, SiAnaconda } from "react-icons/si";
 import { HiCode, HiDatabase } from "react-icons/hi";
+import { Vial, FlaskConical } from "lucide-react";
 
 const skills = [
   { icon: SiPython, name: "Python" },
-  { icon: SiJulia, name: "Julia" },
-  { icon: SiPytorch, name: "PyTorch" },
-  { icon: SiTensorflow, name: "TensorFlow" },
+  { icon: SiPandas, name: "Pandas" },
   { icon: SiScikitlearn, name: "Scikit-learn" },
-  { icon: SiPandas, name: "Data Analysis" },
+  { icon: SiTensorflow, name: "TensorFlow" },
+  { icon: SiKeras, name: "Keras" },
   { icon: SiJupyter, name: "Jupyter" },
-  { icon: HiCode, name: "Scientific ML" },
-  { icon: HiDatabase, name: "Quantum Chemistry" },
-  { icon: SiDocker, name: "Docker" },
+  { icon: SiGooglecolab, name: "Google Colab" },
+  { icon: SiAnaconda, name: "Anaconda" },
+  { icon: HiCode, name: "RDKit" },
+  { icon: Vial, name: "Chem-Draw" },
+  { icon: FlaskConical, name: "Gaussian" },
+  { icon: SiGithub, name: "GitHub" },
+  { icon: SiMicrosoftexcel, name: "MS Office" },
+  { icon: SiCanva, name: "Canva" },
+  { icon: SiLatex, name: "LaTeX" },
 ];
 
 export default function Skills() {
@@ -27,7 +33,7 @@ export default function Skills() {
         >
           Skills & Technologies
         </motion.h2>
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-8">
           {skills.map((skill, index) => (
             <motion.div
               key={skill.name}
