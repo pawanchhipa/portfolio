@@ -1,0 +1,78 @@
+Portfolio Website Content
+
+HomeWelcome to my personal portfolio! I am Pawan, a passionate researcher at the intersection of computational chemistry, machine learning, and materials science. With a strong foundation in chemistry and expertise in artificial intelligence, I aim to develop computational frameworks that accelerate scientific discovery.
+
+About MeI hold a Master's degree in Chemistry from IIT Madras and currently work as a Project Associate at CSIR CLRI, where I develop machine learning models for classifying toxic chemicals. My experience extends to an internship at IIT Madras, where I explored machine learning applications in drug discovery.
+
+My research interests lie in AI-assisted modeling of molecular interactions, computational chemistry, and scientific machine learning. I am particularly focused on leveraging large language models (LLMs) and graph neural networks (GNNs) to enhance predictive modeling in materials and chemical sciences.
+
+I am excited to embark on my PhD journey in Computational Materials Science under Prof. Dr. Marek Sierka, where I will work on integrating simulation workflows and automating the characterization and analysis of advanced materials.
+
+ExperienceProject Associate | CSIR CLRI
+
+Developing machine learning models to classify toxic chemicals.
+
+Implementing AI-driven methodologies for chemical risk assessment.
+
+Intern | IIT Madras
+
+Applied machine learning techniques for drug discovery.
+
+Explored computational models for molecular property predictions.
+
+Researcher | PhD Candidate (Starting April 2025)
+
+Integrating simulation workflows for computational materials science.
+
+Developing automation frameworks for advanced materials analysis.
+
+Skills & Expertise
+
+Machine Learning & AI: Scientific machine learning, LLMs, GNNs, Data analysis
+
+Computational Chemistry: Molecular modeling, Quantum chemistry, Toxicology prediction
+
+Programming Languages: Python, Julia (learning for scientific ML)
+
+Software & Tools: TensorFlow, PyTorch, RDKit, Materials Studio, Gaussian
+
+Scientific Research: Computational modeling, Data-driven discovery, AI-enhanced simulations
+
+Projects
+
+AI-Driven Toxicity Prediction
+
+Built machine learning models to classify toxic chemicals.
+
+Applied data-driven approaches for chemical risk assessment.
+
+ML for Drug Discovery
+
+Developed predictive models for molecular property estimation.
+
+Explored deep learning techniques for drug-likeness classification.
+
+Computational Materials Analysis (PhD Research)
+
+Automating the characterization and analysis of advanced materials.
+
+Integrating AI models with computational simulation workflows.
+
+Publications & Workshops
+
+Attended Machine Learning and Artificial Intelligence in Materials Science workshop at IIT Madras (June 2024).
+
+Research publications (To be updated as work progresses).
+
+Future Goals
+
+Develop AI-powered frameworks for material discovery.
+
+Advance the integration of machine learning in computational chemistry.
+
+Build scalable computational tools for industrial and academic applications.
+
+Contact📍 Location: Germany (from April 2025)📧 Email: [Your Email]💼 LinkedIn: [Your LinkedIn Profile]📂 GitHub: [Your GitHub Profile]
+
+Let's collaborate and explore the frontiers of AI-driven scientific research!
+

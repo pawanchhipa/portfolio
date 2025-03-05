@@ -1,16 +1,17 @@
 import { motion } from "framer-motion";
-import { SiPython, SiTensorflow, SiPytorch, SiScikitlearn, SiKeras, SiOpencv, SiJupyter, SiAmazon, SiDocker, SiPandas } from "react-icons/si";
+import { SiPython, SiTensorflow, SiPytorch, SiScikitlearn, SiJupyter, SiAmazon, SiDocker, SiPandas, SiJulia } from "react-icons/si";
+import { HiCode, HiDatabase } from "react-icons/hi";
 
 const skills = [
-  { icon: SiPandas, name: "Machine Learning" },
   { icon: SiPython, name: "Python" },
-  { icon: SiTensorflow, name: "TensorFlow" },
+  { icon: SiJulia, name: "Julia" },
   { icon: SiPytorch, name: "PyTorch" },
+  { icon: SiTensorflow, name: "TensorFlow" },
   { icon: SiScikitlearn, name: "Scikit-learn" },
-  { icon: SiKeras, name: "Keras" },
-  { icon: SiOpencv, name: "OpenCV" },
+  { icon: SiPandas, name: "Data Analysis" },
   { icon: SiJupyter, name: "Jupyter" },
-  { icon: SiAmazon, name: "AWS" },
+  { icon: HiCode, name: "Scientific ML" },
+  { icon: HiDatabase, name: "Quantum Chemistry" },
   { icon: SiDocker, name: "Docker" },
 ];
 
