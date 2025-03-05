@@ -13,12 +13,12 @@ export default function Hero() {
           className="text-center"
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/60">
-            Computational Chemistry & ML Researcher
+            Hi, I'm Pawan
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto mb-8">
-            I am Pawan, a passionate researcher at the intersection of computational chemistry, 
-            machine learning, and materials science. With expertise in chemistry and AI, 
-            I develop computational frameworks that accelerate scientific discovery.
+            I'm passionate about data and its potential to drive scientific discovery. 
+            Working at the intersection of chemistry and computational methods, 
+            I love exploring how data can unlock new insights in materials science.
           </p>
           <div className="flex gap-4 justify-center mb-8">
             <Button size="lg" asChild>

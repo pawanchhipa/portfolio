@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import { SiPython, SiJupyter, SiPandas, SiScikitlearn, SiTensorflow, SiKeras, SiGooglecolab, SiMicrosoftexcel, SiCanva, SiLatex, SiGithub, SiAnaconda } from "react-icons/si";
-import { HiCode, HiDatabase } from "react-icons/hi";
-import { Vial, FlaskConical } from "lucide-react";
+import { SiPython, SiJupyter, SiPandas, SiScikitlearn, SiTensorflow, SiKeras, SiGooglecolab, SiCanva, SiLatex, SiGithub, SiAnaconda } from "react-icons/si";
+import { HiCode } from "react-icons/hi";
+import { Beaker, FlaskConical } from "lucide-react";
 
 const skills = [
   { icon: SiPython, name: "Python" },
@@ -13,10 +13,9 @@ const skills = [
   { icon: SiGooglecolab, name: "Google Colab" },
   { icon: SiAnaconda, name: "Anaconda" },
   { icon: HiCode, name: "RDKit" },
-  { icon: Vial, name: "Chem-Draw" },
+  { icon: Beaker, name: "Chem-Draw" },
   { icon: FlaskConical, name: "Gaussian" },
   { icon: SiGithub, name: "GitHub" },
-  { icon: SiMicrosoftexcel, name: "MS Office" },
   { icon: SiCanva, name: "Canva" },
   { icon: SiLatex, name: "LaTeX" },
 ];
