@@ -33,7 +33,7 @@ export default function Hero() {
               <Mail className="h-5 w-5" />
               <span>Email</span>
             </a>
-            <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary">
+            <a href="https://github.com/pawanchhipa" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-primary">
               <Github className="h-5 w-5" />
               <span>GitHub</span>
             </a>
