@@ -2,7 +2,8 @@ import { motion } from "framer-motion";
 import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { useQuery } from "@tanstack/react-query";
 import type { Project } from "@shared/schema";
-import { Github } from "lucide-react";
+import { Github, ExternalLink } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 export default function Projects() {
   const { data: projects, isLoading } = useQuery<Project[]>({
@@ -10,7 +11,16 @@ export default function Projects() {
   });
 
   if (isLoading) {
-    return <div>Loading...</div>;
+    return (
+      <div className="min-h-[400px] flex items-center justify-center">
+        <motion.div
+          animate={{ rotate: 360 }}
+          transition={{ duration: 2, repeat: Infinity, ease: "linear" }}
+        >
+          <Github className="h-8 w-8 text-primary" />
+        </motion.div>
+      </div>
+    );
   }
 
   return (
@@ -34,14 +44,14 @@ export default function Projects() {
               whileHover={{ y: -5 }}
               transition={{ duration: 0.3 }}
             >
-              <Card>
-                <CardHeader>
-                  <CardTitle className="flex items-center gap-2">
+              <Card className="h-full flex flex-col">
+                <CardHeader className="flex-1">
+                  <CardTitle className="flex items-center gap-2 mb-4">
                     <Github className="h-5 w-5" />
                     {project.title}
                   </CardTitle>
-                  <CardDescription>{project.description}</CardDescription>
-                  <div className="flex flex-wrap gap-2 mt-4">
+                  <CardDescription className="mb-4">{project.description}</CardDescription>
+                  <div className="flex flex-wrap gap-2 mb-4">
                     {project.technologies.map((tech) => (
                       <span
                         key={tech}
@@ -51,6 +61,21 @@ export default function Projects() {
                       </span>
                     ))}
                   </div>
+                  <Button
+                    variant="outline"
+                    className="w-full mt-auto group"
+                    asChild
+                  >
+                    <a
+                      href={project.githubUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center justify-center gap-2"
+                    >
+                      View Project
+                      <ExternalLink className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
+                    </a>
+                  </Button>
                 </CardHeader>
               </Card>
             </motion.div>

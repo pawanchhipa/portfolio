@@ -3,6 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import type { Experience } from "@shared/schema";
 import { format } from "date-fns";
 import { Briefcase } from "lucide-react";
+import LoadingSpinner from "./LoadingSpinner";
 
 export default function Experience() {
   const { data: experiences, isLoading } = useQuery<Experience[]>({
@@ -10,7 +11,7 @@ export default function Experience() {
   });
 
   if (isLoading) {
-    return <div>Loading...</div>;
+    return <LoadingSpinner />;
   }
 
   return (
@@ -32,7 +33,8 @@ export default function Experience() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.2 }}
-              className="mb-8 relative pl-8 border-l-2 border-primary/30"
+              whileHover={{ scale: 1.02 }}
+              className="mb-8 relative pl-8 border-l-2 border-primary/30 hover:border-primary transition-colors"
             >
               <Briefcase className="absolute -left-3 top-0 bg-background p-1 text-primary h-6 w-6" />
               <h3 className="text-xl font-semibold">{exp.title}</h3>
