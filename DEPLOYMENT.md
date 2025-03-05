@@ -1,38 +1,56 @@
 # Deploying to GitHub Pages
 
-Follow these steps to deploy your portfolio website to GitHub Pages:
+## Step 1: Create Your Repository
+1. Go to https://github.com/pawanchhipa
+2. Click "New" to create a new repository
+3. Name it "portfolio" or "portfolio-website"
+4. Make it public
+5. Don't initialize with any files
 
-1. Create a new GitHub repository for your portfolio website
+## Step 2: Download and Prepare Files
+1. Download your Replit project:
+   - Click the "Download ZIP" button at the top of your Replit project
+   - Extract the ZIP file on your computer
 
-2. Push your code to GitHub:
+2. Open a terminal in the extracted folder
+
+3. Initialize and push to GitHub:
 ```bash
 git init
 git add .
-git commit -m "Initial commit"
+git commit -m "Initial portfolio website commit"
 git branch -M main
-git remote add origin https://github.com/your-username/your-repo-name.git
+git remote add origin https://github.com/pawanchhipa/portfolio.git
 git push -u origin main
 ```
 
-3. Configure GitHub Pages:
-   - Go to your repository settings
-   - Navigate to "Pages" in the sidebar
-   - Under "Source", select "gh-pages" branch
-   - Click "Save"
+## Step 3: Configure GitHub Pages
+1. Go to your repository settings on GitHub
+2. Navigate to "Pages" in the sidebar
+3. Under "Source", select "gh-pages" branch
+4. Wait a few minutes for the deployment to complete
+5. Your site will be available at: `https://pawanchhipa.github.io/portfolio`
 
-4. Your site will be available at: `https://your-username.github.io/your-repo-name`
-
-## Important Notes
-
-- The first deployment may take a few minutes
-- You can check the deployment status in the "Actions" tab of your repository
-- Make sure your repository is public for GitHub Pages to work with the free tier
-- After any changes, simply push to main branch and the site will automatically redeploy
+## Build Requirements
+- Node.js 20.x or later is required
+- Make sure all dependencies are installed with `npm install`
+- The site will automatically build and deploy when you push to main
 
 ## Troubleshooting
-
 If you encounter any issues:
-1. Check the Actions tab for build errors
-2. Ensure all dependencies are correctly listed in package.json
-3. Verify that your repository is public
-4. Check that GitHub Pages is enabled in repository settings
+1. Check that the repository is public
+2. Ensure GitHub Pages is enabled
+3. Check the Actions tab for build status
+4. If the site doesn't appear, wait a few minutes and refresh
+5. Check the Actions tab for build errors (from original)
+6. Ensure all dependencies are correctly listed in package.json (from original)
+
+
+## Updating Your Site
+After making changes locally:
+```bash
+git add .
+git commit -m "Update website content"
+git push origin main
+```
+The GitHub Action will automatically rebuild and deploy your site.
